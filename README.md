@@ -4,24 +4,6 @@ A deep-dive project exploring and demonstrating the internal workings of the Spr
 
 ---
 
-## 🧭 Table of Contents
-
-1. [Overview](#overview)  
-2. [Motivation](#motivation)  
-3. [Architecture & Components](#architecture--components)  
-4. [Getting Started](#getting-started)  
-   - [Prerequisites](#prerequisites)  
-   - [Cloning & Setup](#cloning--setup)  
-   - [Building & Running](#building--running)  
-5. [Project Structure](#project-structure)  
-6. [Key Concepts Covered](#key-concepts-covered)  
-7. [Usage / Examples](#usage--examples)  
-8. [How to Contribute](#how-to-contribute)  
-9. [License](#license)  
-10. [Acknowledgements](#acknowledgements)
-
----
-
 ## 🧩 Overview
 
 This repository provides **educational code samples** and explanations for how **Spring Boot** internally manages:
